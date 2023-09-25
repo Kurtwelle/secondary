@@ -1,0 +1,6 @@
+.table, th, td {
+    border: 40px;
+    /* width: 100%; */
+    border-color: black;
+    border: 1px solid;
+}
